@@ -14,6 +14,10 @@ export default function Home() {
       </Head>
       <div className="h-screen">
         <h2 className="">Hola mundo 2</h2>
+        <p className="text-green-300">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, tempora optio. Possimus laborum facilis quae porro provident ea, 
+          cupiditate quod iste fugiat. Quam recusandae dolorem nisi quibusdam eaque repudiandae expedita!
+        </p>
       </div>
     
     </Layout>
